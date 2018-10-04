@@ -1,0 +1,23 @@
+{
+  "name": "bloomfilter",
+  "version": "1.0.0",
+  "description": "bloomfilter",
+  "main": "bloomfilter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keerthana-Jayakumaran/bloomfilter.git"
+  },
+  "author": "keerthana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Keerthana-Jayakumaran/bloomfilter/issues"
+  },
+  "homepage": "https://github.com/Keerthana-Jayakumaran/bloomfilter#readme",
+  "dependencies": {
+    "murmurhash3": "^0.4.2",
+    "node-bitarray": "^0.1.0"
+  }
+}
